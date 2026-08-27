@@ -1,0 +1,16 @@
+# Frontend (React/Vite)
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# Backend (.NET)
+backend/GrenierApi/bin/
+backend/GrenierApi/obj/
+backend/GrenierApi/appsettings.json
+backend/GrenierApi/appsettings.Development.json
+
+# Éditeurs / Système
+.vs/
+.vscode/
+*.user
+.DS_Store
